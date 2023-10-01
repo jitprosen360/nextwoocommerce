@@ -84,3 +84,5 @@ I use [Git](https://github.com/) for versioning.
 ## License :page_with_curl:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+ // "dev": "NODE_OPTIONS='--inspect' next dev",
